@@ -47,10 +47,6 @@
  - If You Need To Deploy YOur Own Bot 
  - Contact [<b>@TechnoMindzYt</b>](https://t.me/technomindzyt) Paid One !
 
-# Deploy To Railway 
-  
-  [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/AGDC2N?referralCode=mYkpup)
-
 ### Required Variables
 
 * `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
