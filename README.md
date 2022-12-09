@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/Tutorial-red?logo=youtube" width="140">
 
 # DEPLOY
+  [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/AGDC2N)
 
 ## Refer Image Before Deploying 
 ## ⚠️Fork The Repo And Deploy Or Unwanted Problems May Occur...
